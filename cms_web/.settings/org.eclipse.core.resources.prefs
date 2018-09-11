@@ -1,0 +1,4 @@
+eclipse.preferences.version=1
+encoding//WebContent/WEB-INF/jsp/manager/addCategory.jsp=UTF-8
+encoding//WebContent/WEB-INF/jsp/user/articleContent.jsp=UTF-8
+encoding//WebContent/WEB-INF/jsp/user/articleListByCategory.jsp=UTF-8
